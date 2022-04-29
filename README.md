@@ -7,7 +7,7 @@ Emotions provide a plethora of information in communication, enabling us to comp
 
 
 ## Objective
-To develop a general, speaker independent, speech emotion classifier that will classify an audio of adult human speech into categorical labels of emotion using a convolutional neural network. Additionally, to evaluate the contributions of improvements techniques to the performance of the CNN model.
+To develop a general, speaker independent, speech emotion classifier that will classify an audio of adult human speech into 8 categorical labels of emotion using a convolutional neural network, multitask learning, attention, and data augmentation. Additionally, predictions can be obtained for gender and intensity of emotion (valence, arousal, and dominance). IEMOCAP & RAVDESS are the 2 datasets used.
 
 | Input | Outputs | Improvements |
 | :-: | :-: | :-: |
@@ -19,8 +19,6 @@ To develop a general, speaker independent, speech emotion classifier that will c
 || Neutral ||
 || Sadness ||
 || Surprise ||
-
-- IEMOCAP & RAVDESS are the 2 datasets used.
 
 ## Limitations
 - The model is trained on English audio samples only and is thus not suitable to be used for other languages.
