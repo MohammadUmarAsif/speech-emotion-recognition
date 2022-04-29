@@ -57,12 +57,12 @@ IEMOCAP Top-1<br>
 <br>IEMOCAP Top-3<br>
 <img src = 'https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_top3.jpg?raw=true' alt = 'IEMOCAP Top-3' width="355" height="80">
 
-RAVDESS Top-1
-![RAVDESS Top-1](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/ravdess_top1.jpg?raw=true)
-RAVDESS Top-1 with Test-Time Augmentation
-![RAVDESS Top-1 with TTA](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/ravdess_tta.jpg?raw=true)
-RAVDESS Top-3
-![RAVDESS Top-3](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/ravdess_top3.jpg?raw=true)
+<br>RAVDESS Top-1<br>
+<img src = 'https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/ravdess_top1.jpg?raw=true' alt = 'RAVDESS Top-1' width="355" height="95">
+<br>RAVDESS Top-1 with Test-Time Augmentation<br>
+<img src = 'https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/ravdess_tta.jpg?raw=true' alt = 'RAVDESS Top-1 with Test-Time Augmentation' width="345" height="93">
+<br>RAVDESS Top-3<br>
+<img src = 'https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/ravdess_top3.jpg?raw=true' alt = 'RAVDESS Top-3' width="350" height="98">
 
 
 ## Conclusion
