@@ -49,10 +49,11 @@ Following are the notebooks -
 
 ## Results
 IEMOCAP Top-1
-<img src = 'https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_top1.jpg?raw=true' alt = 'IEMOCAP Top-1'>
+<img src = 'https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_top1.jpg?raw=true' alt = 'IEMOCAP Top-1' width="350" height="65">
 <br>
-IEMOCAP VAD
-![IEMOCAP VAD](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_vad.jpg?raw=true)
+IEMOCAP VAD 
+<img src = 'https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_vad.jpg?raw=true' alt = 'IEMOCAP VAD' width="160" height="110">
+<br>
 IEMOCAP Top-1 with Test-Time Augmentation
 ![IEMOCAP Top-1 with TTA](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_tta.jpg?raw=true)
 IEMOCAP Top-3
