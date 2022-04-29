@@ -49,20 +49,20 @@ Following are the notebooks -
 
 ## Results
 IEMOCAP Top-1
-![IEMOCAP Top-1](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_top1.png?raw=true)
+![IEMOCAP Top-1](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_top1.jpg?raw=true)
 IEMOCAP VAD
-![IEMOCAP VAD](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_vad.png?raw=true)
+![IEMOCAP VAD](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_vad.jpg?raw=true)
 IEMOCAP Top-1 with Test-Time Augmentation
-![IEMOCAP Top-1 with TTA](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_tta.png?raw=true)
+![IEMOCAP Top-1 with TTA](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_tta.jpg?raw=true)
 IEMOCAP Top-3
-![IEMOCAP Top-3](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_top3.png?raw=true)
+![IEMOCAP Top-3](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_top3.jpg?raw=true)
 
 RAVDESS Top-1
-![RAVDESS Top-1](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/ravdess_top1.png?raw=true)
+![RAVDESS Top-1](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/ravdess_top1.jpg?raw=true)
 RAVDESS Top-1 with Test-Time Augmentation
-![RAVDESS Top-1 with TTA](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/ravdess_tta.png?raw=true)
+![RAVDESS Top-1 with TTA](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/ravdess_tta.jpg?raw=true)
 RAVDESS Top-3
-![RAVDESS Top-3](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/ravdess_top3.png?raw=true)
+![RAVDESS Top-3](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/ravdess_top3.jpg?raw=true)
 
 
 ## Conclusion
