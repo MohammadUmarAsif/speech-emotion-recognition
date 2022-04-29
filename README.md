@@ -45,11 +45,12 @@ Following are the notebooks -
 - Model Testing - RAVDESS
 
 ## Architecture
-![Architecture](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/arch.png?raw=true)
+![Architecture](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/arch.jpg?raw=true)
 
 ## Results
 IEMOCAP Top-1
-![IEMOCAP Top-1](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_top1.jpg?raw=true)
+<img src = 'https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_top1.jpg?raw=true' alt = 'IEMOCAP Top-1'>
+<br>
 IEMOCAP VAD
 ![IEMOCAP VAD](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_vad.jpg?raw=true)
 IEMOCAP Top-1 with Test-Time Augmentation
