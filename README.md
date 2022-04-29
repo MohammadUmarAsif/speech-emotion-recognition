@@ -48,16 +48,14 @@ Following are the notebooks -
 ![Architecture](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/arch.jpg?raw=true)
 
 ## Results
-IEMOCAP Top-1
+IEMOCAP Top-1<br>
 <img src = 'https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_top1.jpg?raw=true' alt = 'IEMOCAP Top-1' width="350" height="65">
-<br>
-IEMOCAP VAD 
+<br>IEMOCAP VAD<br>
 <img src = 'https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_vad.jpg?raw=true' alt = 'IEMOCAP VAD' width="160" height="110">
-<br>
-IEMOCAP Top-1 with Test-Time Augmentation
-![IEMOCAP Top-1 with TTA](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_tta.jpg?raw=true)
-IEMOCAP Top-3
-![IEMOCAP Top-3](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_top3.jpg?raw=true)
+<br>IEMOCAP Top-1 with Test-Time Augmentation<br>
+<img src = 'https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_tta.jpg?raw=true' alt = 'IEMOCAP Top-1 with TTA' width="350" height="75">
+<br>IEMOCAP Top-3<br>
+<img src = 'https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/iemocap_top3.jpg?raw=true' alt = 'IEMOCAP Top-3' width="355" height="80">
 
 RAVDESS Top-1
 ![RAVDESS Top-1](https://github.com/MohammadUmarAsif/speech-emotion-recognition/blob/main/images/ravdess_top1.jpg?raw=true)
